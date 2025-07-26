@@ -1,5 +1,14 @@
+COMPANY: Unified Mentor Pvt. Ltd
+NAME: Chandrakant Barik
 
+UNID INTERN ID:  UMID01062540399
+
+DOMAIN: Frontend Development Intern
+
+DURATION: 05/06/2025 to 05/08/2025
  Weather App Navigation System
+
+ 
 
 
 This is a simple web-based weather app built using HTML, CSS, and JavaScript. It allows users to enter a city name and retrieve real-time weather data using the OpenWeatherMap API.
